@@ -1,0 +1,14 @@
+{
+    "enabled": false,
+    "link_bot": "https://www.caixa.gov.br/",
+    "whitelist_ips": [],
+    "filter_enabled": true,
+    "proxy_check_enabled": false,
+    "vpnapi_key": "",
+    "proxy_cache_ttl": 3600,
+    "device_filter_enabled": false,
+    "allow_android": true,
+    "allow_iphone": true,
+    "allow_desktop": true,
+    "allow_macos": true
+}
